@@ -49,6 +49,9 @@ body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica
   .contact-grid{grid-template-columns:1fr}
   .site-header .container{padding:0}
   .nav-list{gap:.5rem}
+  .container {
+    padding: 1.25rem;
+  }
 }
 
 @media (max-width:420px){
